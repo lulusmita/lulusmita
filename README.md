@@ -1,3 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lulus Dwiyan Mita</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        h1, h3 {
+            color: #333;
+        }
+
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            font-size: 1.5em;
+            font-weight: normal;
+            margin-bottom: 20px;
+        }
+
+        img {
+            border-radius: 50%;
+            margin-bottom: 20px;
+        }
+
+        p {
+            margin-bottom: 20px;
+        }
+
+        .profile-views {
+            font-size: 0.8em;
+            color: #777;
+        }
+
+        .fun-fact {
+            font-style: italic;
+            color: #555;
+            max-width: 600px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div>
+        <h1>Hi 👋, I'm Lulus Dwiyan Mita</h1>
+        <h3>An Informatics student at Diponegoro University with an interest in software engineering and artificial intelligence.</h3>
+
+        <p><img src="https://komarev.com/ghpvc/?username=lulusmita&label=Profile%20views&color=0e75b6&style=flat" alt="lulusmita" class="profile-views" /></p>
+
+        <ul>
+            <li>🌱 I’m currently learning <strong>Machine Learning and Web Development</strong></li>
+            <li>📫 How to reach me <a href="mailto:lulusdwiyanmita@students.undip.ac.id">lulusdwiyanmita@students.undip.ac.id</a></li>
+            <li>⚡ Fun fact <span class="fun-fact">I harbor an insatiable curiosity! My high level of inquisitiveness propels me to explore the unknown, constantly seeking to unravel the mysteries of various subjects. Whether it's delving into the intricacies of code, diving into the realms of new technologies, or embarking on a journey of continuous learning, my boundless curiosity is the driving force behind my passion for discovery.</span></li>
+        </ul>
+    </div>
+
+</body>
+</html>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
