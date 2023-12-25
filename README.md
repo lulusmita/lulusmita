@@ -1,13 +1,3 @@
-<h1 align="center">Hi 👋, I'm Lulus Dwiyan Mita</h1>
-<h3 align="center">An Informatics student at Diponegoro University with an interest in software engineering and artificial intelligence.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lulusmita&label=Profile%20views&color=0e75b6&style=flat" alt="lulusmita" /> </p>
-
-- 🌱 I’m currently learning **Machine Learning and Web Development**
-
-- 📫 How to reach me **lulusdwiyanmita@students.undip.ac.id**
-
-- ⚡ Fun fact **I harbor an insatiable curiosity! My high level of inquisitiveness propels me to explore the unknown, constantly seeking to unravel the mysteries of various subjects. Whether it's delving into the intricacies of code, diving into the realms of new technologies, or embarking on a journey of continuous learning, my boundless curiosity is the driving force behind my passion for discovery.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
